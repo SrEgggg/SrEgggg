@@ -1,20 +1,18 @@
-👋 Hi, I’m @SrEgggg
+# 🥚 SrEgggg
 
-👀 I’m interested in gaming 🎮, music 🎧, embedded systems, and cool tech innovations 💡
+> *Building cool tech, one line of code at a time.*
 
-🌱 I’m currently learning web development, Python, and AI/ML stuff 🤖
+### 🛠️ Tech Stack & Interests
+* **Core:** Embedded Systems, Python, Web Development
+* **Learning:** AI/ML, Automation
+* **Hobbies:** Gaming 🎮, Music 🎧
 
-💞️ I’m looking to collaborate on fun and meaningful tech projects — especially automation or game-related tools!
+### 🚀 What I'm up to
+* **Current Focus:** expanding my skills in Web Dev and AI.
+* **Goals:** Building tools for game dev and automating daily tasks.
 
-📫 How to reach me: egmharistheone@gmail.com or in my social
+### ⚡ Random
+* **Pronouns:** He/Him
+* **Spirit Animal:** Shark 🦈
 
-😄 Pronouns: he/him
-
-⚡ Fun fact: I like sharks 🦈 and my name starts with “Egg” — I guess you could say I’m always cracking ideas, but the truth is im dumb 🥚💡
-
-🥱 I'm also Lazy AF 😉
-
-<!---
-SrEgggg/SrEgggg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[Get in Touch](mailto:egmharistheone@gmail.com)
