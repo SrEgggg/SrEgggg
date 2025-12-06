@@ -1,3 +1,0 @@
-git add .github/workflows/snake.yml
-git commit -m "Add snake animation workflow"
-git push origin main
