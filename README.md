@@ -1,9 +1,9 @@
-# 🏄 SrEgg
+### 🏄 SrEgg
 
 **`Computer Engineering (Developer/Silly)`**
 I am a Computer Engineering student residing in the Philippines who has a deep love for technology, coding, and inventing things that tackle everyday problems. My interest lies in discovering the functionalities of systems—from hardware to software—and upgrading my expertise through one project at a time.
 
-#
+###
 <br>
 ### 🛠️ Languages and Tools
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
