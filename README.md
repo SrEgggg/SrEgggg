@@ -45,6 +45,13 @@ I am a Computer Engineering student residing in the Philippines who has a deep l
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SrEgggg&show_icons=true" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SrEgggg" height="150" alt="Top languages" />
+</div>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/sregggg/sregggg/output/snake.svg" alt="Snake animation" />
