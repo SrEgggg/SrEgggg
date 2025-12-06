@@ -48,7 +48,9 @@ I am a Computer Engineering student residing in the Philippines who has a deep l
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/<sregggg>/<repo>/output/dist/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sregggg/myrepo/output/dist/snake.svg" alt="Snake animation" />
+
+
 
 
 ###
