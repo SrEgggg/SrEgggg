@@ -1,6 +1,7 @@
 ### 🥚SrEgg
 
-**`Computer Engineering (Developer/Silly)`**
+**`Computer Engineering (Developer/Silly)`** 
+
 I am a Computer Engineering student residing in the Philippines who has a deep love for technology, coding, and inventing things that tackle everyday problems. My interest lies in discovering the functionalities of systems—from hardware to software—and upgrading my expertise through one project at a time.
 
 ### 🛠️ Languages and Tools
@@ -26,13 +27,6 @@ I am a Computer Engineering student residing in the Philippines who has a deep l
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sregggg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sregggg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sregggg&show_icons=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sregggg" height="150" alt="Top languages" />
 </div>
 
 ###
