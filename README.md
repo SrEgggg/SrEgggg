@@ -1,3 +1,8 @@
+###
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 ### 🥚SrEgg
 
 **`Computer Engineering (Developer/Silly)`** 
@@ -17,12 +22,6 @@ I am a Computer Engineering student residing in the Philippines who has a deep l
 
 
 ###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sregggg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sregggg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -31,7 +30,14 @@ I am a Computer Engineering student residing in the Philippines who has a deep l
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/7a2ael"  />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
