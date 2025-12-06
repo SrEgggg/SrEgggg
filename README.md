@@ -20,7 +20,7 @@ I am a Computer Engineering student residing in the Philippines who has a deep l
 #
 ### 📊 Stats
 💡
-![SrEgg's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrEgg&show_icons=true&theme=gruvbox)
+![SrEgg's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrEgggg&show_icons=true&theme=gruvbox)
 
 #
 <details>
