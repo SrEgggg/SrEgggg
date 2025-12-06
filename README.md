@@ -31,7 +31,7 @@ I am a Computer Engineering student residing in the Philippines who has a deep l
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://tenor.com/view/shibuya-station-haru-anime-boy-cute-anime-emoji-gif-6954801615756273832"  />
 
 ###
 
