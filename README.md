@@ -69,7 +69,7 @@ I am a Computer Engineering student residing in the Philippines who has a deep l
 <details>
 <summary><h3>👨‍💻 SrEgg Coding Journey Click Here...</h3></summary>
 When I was a child, I was already addicted to playing Counter‑Strike on my ancient laptop. Sometimes, I would even go to computer shops just to play games. That was the starting point of my computer fascination. I got into “hacking” because it was cool, but I never really learned how to hack, and I didn't even know the existence of programming languages. Then I reached senior high school and opted for IT, as I wanted to know computers more intimately. It was there that I realized what programming languages were but, to be honest, I didn't take it that seriously yet. I-Comedy started to wonder how the software was being created; that was my little push to try coding for the very first time. I started off with the essentials: HTML and CSS. It was a thrilling experience to create something by myself, even if it was just a rudimentary one. The real turning point was the time when I went to university. My aspiration was to study Computer Science in a different college, but due to unforeseen circumstances, I had to settle for Computer Engineering. At first, I thought it was a hard blow, but in fact, it turned out to be one of the best choices I ever made. My studies paved my way to learning programming for real and I found that my skills were improving day by day. And today I am still learning, still coding, and still nurturing my love for technology.
-
+</details>
 ###
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=onedark&animation=grow_out_in&layout=zues&font=PixelifySans&quoteType=quote-for-the-day&bgColor=purple)
