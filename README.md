@@ -79,7 +79,8 @@ When I was a child, I was already addicted to playing Counter‑Strike on my anc
 ###
 
 <details>
-<summary><h3>👨‍💻 SSrEgg Certificates Click Here...</h3></summary>
+<summary><h3>👨‍💻 SrEgg Certificates Click Here...</h3></summary>
+Certificate in C Programming from Sololearn, Covering the Basics and Fundamentals of C
 <img width="1754" height="1238" alt="43434792-7b8d-4b4b-a69b-97240d2312a9" src="https://github.com/user-attachments/assets/deb8a9be-82ea-4fc5-b08a-69a5dbd121a0" />
 
 </details>
