@@ -77,3 +77,10 @@ When I was a child, I was already addicted to playing Counter‑Strike on my anc
 </div>
 
 ###
+
+<details>
+<summary><h3>👨‍💻 SrEgg Certificates Click Here...</h3></summary>
+<img align="right" height="150" src="<img width="1754" height="1238" alt="43434792-7b8d-4b4b-a69b-97240d2312a9" src="https://github.com/user-attachments/assets/e769c0b3-5a65-4a13-9511-9d5c3eddd621" />
+"  />
+
+###
